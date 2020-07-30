@@ -30,7 +30,7 @@ mv dot-github_your_platform /usr/local/bin/dot-github
 ```
 
 ### 2. Write Your Template Files
-
+ 
 ```sh
 $ mkdir -p ~/.github && cd ~/.github
 $ $EDITOR ISSUE_AND_PULL_REQUEST_TEMPLATE.md
